@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Prac-Calculator/static/css/main.cf95da0f.css",
+    "main.css": "/Prac-Calculator/static/css/main.3a2b98cd.css",
     "main.js": "/Prac-Calculator/static/js/main.7f765c8c.js",
     "static/js/787.22307a73.chunk.js": "/Prac-Calculator/static/js/787.22307a73.chunk.js",
     "static/media/logo.svg": "/Prac-Calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Prac-Calculator/index.html",
-    "main.cf95da0f.css.map": "/Prac-Calculator/static/css/main.cf95da0f.css.map",
+    "main.3a2b98cd.css.map": "/Prac-Calculator/static/css/main.3a2b98cd.css.map",
     "main.7f765c8c.js.map": "/Prac-Calculator/static/js/main.7f765c8c.js.map",
     "787.22307a73.chunk.js.map": "/Prac-Calculator/static/js/787.22307a73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf95da0f.css",
+    "static/css/main.3a2b98cd.css",
     "static/js/main.7f765c8c.js"
   ]
 }
